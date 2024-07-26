@@ -7,9 +7,9 @@ Pod::Spec.new do |s|
   BlinkSDK provides a comprehensive solution for monitoring and analyzing driving behavior, as well as detecting accidents in real-time. Designed for seamless integration with iOS applications, it leverages advanced algorithms to track and evaluate driver actions, enabling proactive safety measures and detailed behavior insights. Ideal for developers aiming to enhance driving safety features within their apps, BlinkSDK offers robust tools for accident detection and performance analytics.
                        DESC
 
-  s.homepage         = 'https://github.com/blinkappnet/BlinkSDK-iOS'
+  s.homepage         = 'https://blinkapp.net'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'AbdulrahmanAlaa114' => 'abdulrhmanalaa114@gmail.com' }
+  s.author           = { 'BlinkApp LLC' => 'info@blinkapp.net' }
   s.source           = { :git => 'https://github.com/blinkappnet/BlinkSDK-iOS.git', :tag => s.version.to_s }
     
   s.swift_version = '5.0'
