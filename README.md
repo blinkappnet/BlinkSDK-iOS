@@ -22,7 +22,7 @@ pod 'BlinkSDK'
 
 ## Author
 
-AbdulrahmanAlaa114, abdulrhmanalaa114@gmail.com
+BlinkApp LLC., info@blinkapp.net
 
 ## License
 
