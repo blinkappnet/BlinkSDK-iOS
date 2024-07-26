@@ -7,6 +7,7 @@
 //
 
 import UIKit
+import BlinkSDK
 
 @UIApplicationMain
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -16,7 +17,30 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
+        
+        Blink.shared.configure(apiKey: "Abdulrahman") { isWorking, error in
+            if let error = error {
+                print("[BlinkSDK] Error: \(error)")
+            } else {
+                print("[BlinkSDK] isWorking: \(isWorking)")
+            }
+        }
+        
+        Blink.shared.didFinishLaunching(application, didFinishLaunchingWithOptions: launchOptions)
+        setUpNotifications()
         return true
+    }
+    
+    func setUpNotifications() {
+        
+        UNUserNotificationCenter.current().delegate = self
+        let authOptions: UNAuthorizationOptions = [.alert, .badge, .sound]
+        UNUserNotificationCenter.current().requestAuthorization(
+            options: authOptions,
+            completionHandler: { granted, error in
+                print("app delegate requestAuthorization completed granted: \(granted), error: \(String(describing: error))")
+            })
+
     }
 
     func applicationWillResignActive(_ application: UIApplication) {
@@ -44,3 +68,14 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 }
 
+
+extension AppDelegate: UNUserNotificationCenterDelegate {
+    
+    func userNotificationCenter(_ center: UNUserNotificationCenter, willPresent notification: UNNotification, withCompletionHandler completionHandler: @escaping (UNNotificationPresentationOptions) -> Void) {
+        completionHandler( [.alert, .badge, .sound])
+    }
+
+    func userNotificationCenter(_ center: UNUserNotificationCenter, didReceive response: UNNotificationResponse, withCompletionHandler completionHandler: @escaping () -> Void) {
+        completionHandler()
+    }
+}

@@ -22,6 +22,12 @@
 	<string>1</string>
 	<key>LSRequiresIPhoneOS</key>
 	<true/>
+	<key>UIBackgroundModes</key>
+	<array>
+		<string>fetch</string>
+		<string>location</string>
+		<string>processing</string>
+	</array>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
@@ -35,5 +41,13 @@
 		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 	</array>
+	<key>NSMotionUsageDescription</key>
+	<string>Requires and uses motion activity efficiently to detect trips.</string>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Requires and uses location efficiently for detecting trips and user segments.</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Requires and uses location efficiently for detecting trips and user segments.</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Requires and uses location efficiently for detecting trips and user segments.</string>
 </dict>
 </plist>

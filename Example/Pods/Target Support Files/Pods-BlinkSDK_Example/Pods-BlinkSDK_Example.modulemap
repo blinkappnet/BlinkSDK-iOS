@@ -1,0 +1,6 @@
+framework module Pods_BlinkSDK_Example {
+  umbrella header "Pods-BlinkSDK_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

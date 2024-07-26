@@ -1,42 +1,23 @@
-#
-# Be sure to run `pod lib lint BlinkSDK.podspec' to ensure this is a
-# valid spec before submitting.
-#
-# Any lines starting with a # are optional, but their use is encouraged
-# To learn more about a Podspec see https://guides.cocoapods.org/syntax/podspec.html
-#
-
 Pod::Spec.new do |s|
   s.name             = 'BlinkSDK'
   s.version          = '0.1.0'
-  s.summary          = 'A short description of BlinkSDK.'
-
-# This description is used to generate tags and improve search results.
-#   * Think: What does it do? Why did you write it? What is the focus?
-#   * Try to keep it short, snappy and to the point.
-#   * Write the description between the DESC delimiters below.
-#   * Finally, don't worry about the indent, CocoaPods strips it!
-
+  s.summary          = 'An SDK for accident detection and driver behavior analysis.'
+  
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+  BlinkSDK provides a comprehensive solution for monitoring and analyzing driving behavior, as well as detecting accidents in real-time. Designed for seamless integration with iOS applications, it leverages advanced algorithms to track and evaluate driver actions, enabling proactive safety measures and detailed behavior insights. Ideal for developers aiming to enhance driving safety features within their apps, BlinkSDK offers robust tools for accident detection and performance analytics.
                        DESC
 
-  s.homepage         = 'https://github.com/AbdulrahmanAlaa114/BlinkSDK'
-  # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
+  s.homepage         = 'https://github.com/blinkappnet/BlinkSDK-iOS'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'AbdulrahmanAlaa114' => 'abdulrhmanalaa114@gmail.com' }
-  s.source           = { :git => 'https://github.com/AbdulrahmanAlaa114/BlinkSDK.git', :tag => s.version.to_s }
-  # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
+  s.source           = { :git => 'https://github.com/blinkappnet/BlinkSDK-iOS.git', :tag => s.version.to_s }
+    
+  s.swift_version = '5.0'
+  s.ios.deployment_target = '13.0'
+  s.ios.vendored_frameworks = [
+    "Framework/BlinkSDK.xcframework",
+  ]
+  s.dependency 'TensorFlowLiteSwift'
 
-  s.ios.deployment_target = '10.0'
 
-  s.source_files = 'BlinkSDK/Classes/**/*'
-  
-  # s.resource_bundles = {
-  #   'BlinkSDK' => ['BlinkSDK/Assets/*.png']
-  # }
-
-  # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
 end

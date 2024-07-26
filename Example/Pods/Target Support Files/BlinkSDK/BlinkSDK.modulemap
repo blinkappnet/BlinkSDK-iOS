@@ -1,0 +1,6 @@
+framework module BlinkSDK {
+  umbrella header "BlinkSDK-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,81 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 5.9.2 (swiftlang-5.9.2.2.56 clang-1500.1.0.2.5)
+// swift-module-flags: -target x86_64-apple-ios17.2-simulator -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -module-name BlinkSDK
+// swift-module-flags-ignorable: -enable-bare-slash-regex
+import CoreLocation
+import CoreMotion
+import Foundation
+import Swift
+import TensorFlowLite
+import UIKit
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+@_hasMissingDesignatedInitializers final public class Blink {
+  public static let shared: BlinkSDK.Blink
+  final public func configure(apiKey: Swift.String, completion: @escaping (Swift.Bool?, (any Swift.Error)?) -> Swift.Void)
+  final public func didFinishLaunching(_ application: UIKit.UIApplication, didFinishLaunchingWithOptions launchOptions: [UIKit.UIApplication.LaunchOptionsKey : Any]?)
+  @objc deinit
+}
+extension BlinkSDK.Blink : BlinkSDK.AccidentDetectionObserver {
+  final public func addAccidentDetectionObserver(_ observer: any BlinkSDK.AccidentDetectionObserver)
+  final public func removeAccidentDetectionObserver(_ observer: any BlinkSDK.AccidentDetectionObserver)
+  final public func didDetectAccident(severity: Swift.Int32, speed: Swift.Double)
+  final public func didChangeAcceleration(to accel: Swift.Float)
+}
+extension BlinkSDK.Blink : BlinkSDK.DriverBehaviorObserver {
+  final public func addDriverBehaviorObserver(_ observer: any BlinkSDK.DriverBehaviorObserver)
+  final public func removeDriverBehaviorObserver(_ observer: any BlinkSDK.DriverBehaviorObserver)
+  final public func didEncounterIncident(_ incidentType: BlinkSDK.IncidentType, severityLevel: Swift.Int)
+}
+extension BlinkSDK.Blink : BlinkSDK.TripTrackingObserver {
+  final public func addTripTrackingObserver(_ observer: any BlinkSDK.TripTrackingObserver)
+  final public func removeTripTrackingObserver(_ observer: any BlinkSDK.TripTrackingObserver)
+  final public func didUpdateLocation(_ location: CoreLocation.CLLocation)
+}
+extension BlinkSDK.Blink : BlinkSDK.TripStatusObserver {
+  final public func addTripStatusObserver(_ observer: any BlinkSDK.TripStatusObserver)
+  final public func removeTripStatusObserver(_ observer: any BlinkSDK.TripStatusObserver)
+  final public func didStartTrip(at location: CoreLocation.CLLocation)
+  final public func didEndTrip(at location: CoreLocation.CLLocation)
+}
+public protocol TripStatusObserver : AnyObject {
+  func didStartTrip(at location: CoreLocation.CLLocation)
+  func didEndTrip(at location: CoreLocation.CLLocation)
+}
+public protocol TripTrackingObserver : AnyObject {
+  func didUpdateLocation(_ location: CoreLocation.CLLocation)
+}
+public protocol AccidentDetectionObserver : AnyObject {
+  func didDetectAccident(severity: Swift.Int32, speed: Swift.Double)
+}
+public protocol DriverBehaviorObserver : AnyObject {
+  func didEncounterIncident(_ incidentType: BlinkSDK.IncidentType, severityLevel: Swift.Int)
+}
+extension BlinkSDK.Blink {
+  final public func startTripManually(startTrip: Swift.Bool)
+}
+public enum IncidentType : Swift.Int {
+  case normal
+  case brake
+  case cornering
+  case acceleration
+  case swerve
+  case drifting
+  case overSpeed
+  case makeCalls
+  case replyCalls
+  case texting
+  case startCharging
+  case stopCharging
+  case headSetCall
+  case headSetReply
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+extension BlinkSDK.IncidentType : Swift.Equatable {}
+extension BlinkSDK.IncidentType : Swift.Hashable {}
+extension BlinkSDK.IncidentType : Swift.RawRepresentable {}
