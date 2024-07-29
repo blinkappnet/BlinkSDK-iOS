@@ -1,0 +1,11 @@
+framework module BlinkSDK {
+  umbrella header "BlinkSDK.h"
+  export *
+
+  module * { export * }
+}
+
+module BlinkSDK.Swift {
+  header "BlinkSDK-Swift.h"
+  requires objc
+}
