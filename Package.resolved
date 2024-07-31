@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "tensorflowliteswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/tareksabry1337/TensorFlowLiteSwift.git",
+      "state" : {
+        "revision" : "1d5535498c3aab60095ad7277b5fd16a55f01e86",
+        "version" : "2.9.1"
+      }
+    }
+  ],
+  "version" : 2
+}
