@@ -1072,8 +1072,8 @@
       },
       {
         "kind": "Import",
-        "name": "TensorFlowLiteSwift",
-        "printedName": "TensorFlowLiteSwift",
+        "name": "TensorFlowLite",
+        "printedName": "TensorFlowLite",
         "declKind": "Import",
         "moduleName": "BlinkSDK"
       },
@@ -1776,8 +1776,8 @@
       },
       {
         "kind": "Import",
-        "name": "TensorFlowLiteSwift",
-        "printedName": "TensorFlowLiteSwift",
+        "name": "TensorFlowLite",
+        "printedName": "TensorFlowLite",
         "declKind": "Import",
         "moduleName": "BlinkSDK"
       },
@@ -3945,588 +3945,588 @@
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 255,
+      "offset": 250,
       "length": 3,
       "value": "200"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 292,
+      "offset": 287,
       "length": 1,
       "value": "4"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 316,
+      "offset": 311,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 339,
+      "offset": 334,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "FloatLiteral",
-      "offset": 377,
+      "offset": 372,
       "length": 4,
       "value": "3.75"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "FloatLiteral",
-      "offset": 420,
+      "offset": 415,
       "length": 4,
       "value": "0.75"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "Array",
-      "offset": 459,
+      "offset": 454,
       "length": 39,
       "value": "[[2.5, 0], [4, 0], [4.75, 0], [5.5, 0]]"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "Array",
-      "offset": 536,
+      "offset": 531,
       "length": 47,
       "value": "[[2, 0.1], [4, 0.2], [4.5, 0.25], [5.25, 0.35]]"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "Array",
-      "offset": 620,
+      "offset": 615,
       "length": 48,
       "value": "[[2, 0.45], [3.5, 0.65], [4, 0.75], [4.5, 0.85]]"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "Array",
-      "offset": 708,
+      "offset": 703,
       "length": 12,
       "value": "[0.02, 0.02]"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "Array",
-      "offset": 762,
+      "offset": 757,
       "length": 14,
       "value": "[0.022, 0.022]"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "Array",
-      "offset": 877,
+      "offset": 872,
       "length": 14,
       "value": "[0.028, 0.028]"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 929,
+      "offset": 924,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "StringLiteral",
-      "offset": 1023,
+      "offset": 1018,
       "length": 13,
       "value": "\"DBModelV1.0\""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "StringLiteral",
-      "offset": 1058,
+      "offset": 1053,
       "length": 8,
       "value": "\"tflite\""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "StringLiteral",
-      "offset": 1102,
+      "offset": 1097,
       "length": 39,
       "value": "\"Failed to load the driver model file.\""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "StringLiteral",
-      "offset": 1388,
+      "offset": 1383,
       "length": 76,
       "value": "\"Failed to create the interpreter with error: \""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "StringLiteral",
-      "offset": 1463,
+      "offset": 1458,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1716,
+      "offset": 1711,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1734,
+      "offset": 1729,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 1822,
+      "offset": 1817,
       "length": 1,
       "value": "8"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "Array",
-      "offset": 1860,
+      "offset": 1855,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "Array",
-      "offset": 1903,
+      "offset": 1898,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "FloatLiteral",
-      "offset": 1959,
+      "offset": 1954,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "FloatLiteral",
-      "offset": 2047,
+      "offset": 2042,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "FloatLiteral",
-      "offset": 2125,
+      "offset": 2120,
       "length": 3,
       "value": "0.0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2184,
+      "offset": 2179,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2221,
+      "offset": 2216,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2260,
+      "offset": 2255,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2300,
+      "offset": 2295,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2342,
+      "offset": 2337,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2375,
+      "offset": 2370,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2404,
+      "offset": 2399,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2475,
+      "offset": 2470,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2493,
+      "offset": 2488,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2511,
+      "offset": 2506,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2571,
+      "offset": 2566,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2590,
+      "offset": 2585,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 2609,
+      "offset": 2604,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3453,
+      "offset": 3448,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3510,
+      "offset": 3505,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3694,
+      "offset": 3689,
       "length": 3,
       "value": "150"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3719,
+      "offset": 3714,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3769,
+      "offset": 3764,
       "length": 3,
       "value": "150"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 3795,
+      "offset": 3790,
       "length": 2,
       "value": "50"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "StringLiteral",
-      "offset": 3951,
+      "offset": 3946,
       "length": 11,
       "value": "\"condition\""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4005,
+      "offset": 4000,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "Array",
-      "offset": 4008,
+      "offset": 4003,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 4968,
+      "offset": 4963,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5024,
+      "offset": 5019,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5234,
+      "offset": 5229,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5299,
+      "offset": 5294,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5364,
+      "offset": 5359,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5604,
+      "offset": 5599,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5722,
+      "offset": 5717,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "StringLiteral",
-      "offset": 5757,
+      "offset": 5752,
       "length": 25,
       "value": "\"db_result\""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "StringLiteral",
-      "offset": 5781,
+      "offset": 5776,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5805,
+      "offset": 5800,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 5809,
+      "offset": 5804,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6019,
+      "offset": 6014,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6307,
+      "offset": 6302,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6609,
+      "offset": 6604,
       "length": 1,
       "value": "3"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6940,
+      "offset": 6935,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 6987,
+      "offset": 6982,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7198,
+      "offset": 7193,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "Array",
-      "offset": 7200,
+      "offset": 7195,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7324,
+      "offset": 7319,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7417,
+      "offset": 7412,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7429,
+      "offset": 7424,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7648,
+      "offset": 7643,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7843,
+      "offset": 7838,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7915,
+      "offset": 7910,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 7949,
+      "offset": 7944,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 8019,
+      "offset": 8014,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 8163,
+      "offset": 8158,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 8465,
+      "offset": 8460,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 8509,
+      "offset": 8504,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 8567,
+      "offset": 8562,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 8603,
+      "offset": 8598,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 8607,
+      "offset": 8602,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 8641,
+      "offset": 8636,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 8665,
+      "offset": 8660,
       "length": 3,
       "value": "100"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 8689,
+      "offset": 8684,
       "length": 2,
       "value": "10"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Driver Behaviour\/DriverBehaviorModel.swift",
       "kind": "IntegerLiteral",
-      "offset": 8768,
+      "offset": 8763,
       "length": 1,
       "value": "1"
     },
@@ -5506,308 +5506,308 @@
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 141,
+      "offset": 136,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 238,
+      "offset": 233,
       "length": 16,
       "value": "\"CrachDetection\""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 270,
+      "offset": 265,
       "length": 8,
       "value": "\"tflite\""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 308,
+      "offset": 303,
       "length": 48,
       "value": "\"Failed to load the model CrashDetection file. \""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 442,
+      "offset": 437,
       "length": 21,
       "value": "\"options: \""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 462,
+      "offset": 457,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 827,
+      "offset": 822,
       "length": 55,
       "value": "\"Failed to create the interpreter with error: \""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 881,
+      "offset": 876,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 1109,
+      "offset": 1104,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 1130,
+      "offset": 1125,
       "length": 2,
       "value": "-1"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 1148,
+      "offset": 1143,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 1315,
+      "offset": 1310,
       "length": 2,
       "value": "11"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 1330,
+      "offset": 1325,
       "length": 2,
       "value": "14"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 1352,
+      "offset": 1347,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 1475,
+      "offset": 1470,
       "length": 24,
       "value": "\"optionsI0: \""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 1498,
+      "offset": 1493,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 1564,
+      "offset": 1559,
       "length": 10,
       "value": "\"optionsI\""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 1590,
+      "offset": 1585,
       "length": 43,
       "value": "\"optionsI0: \""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 1629,
+      "offset": 1624,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 1632,
+      "offset": 1627,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 1649,
+      "offset": 1644,
       "length": 43,
       "value": "\"optionsI1: \""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 1688,
+      "offset": 1683,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 1691,
+      "offset": 1686,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 1903,
+      "offset": 1898,
       "length": 24,
       "value": "\"inputt_rg: \""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 1926,
+      "offset": 1921,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 1943,
+      "offset": 1938,
       "length": 24,
       "value": "\"inputt_ts: \""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 1966,
+      "offset": 1961,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 2019,
+      "offset": 2014,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 2071,
+      "offset": 2066,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 2088,
+      "offset": 2083,
       "length": 55,
       "value": "\"optionsI1_shape: \""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 2133,
+      "offset": 2128,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 2142,
+      "offset": 2137,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 2335,
+      "offset": 2330,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 2556,
+      "offset": 2551,
       "length": 19,
       "value": "\"result: \""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "StringLiteral",
-      "offset": 2574,
+      "offset": 2569,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "Array",
-      "offset": 2798,
+      "offset": 2793,
       "length": 28,
       "value": "[2, 4, 8, 9, 10, 11, 12, 13]"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 2878,
+      "offset": 2873,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 2914,
+      "offset": 2909,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 2934,
+      "offset": 2929,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 2985,
+      "offset": 2980,
       "length": 1,
       "value": "0"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 3107,
+      "offset": 3102,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 3113,
+      "offset": 3108,
       "length": 1,
       "value": "1"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 3149,
+      "offset": 3144,
       "length": 1,
       "value": "2"
     },
     {
       "filePath": "\/Users\/abdulrahmanalaa\/Downloads\/Abdulrahman\/mine\/0- projects\/Blink company\/BlinkSDK\/Framework\/without Cocoapods\/BlinkSDK\/BlinkSDK\/Crach Detection\/CrashDetection.swift",
       "kind": "IntegerLiteral",
-      "offset": 3154,
+      "offset": 3149,
       "length": 1,
       "value": "1"
     },

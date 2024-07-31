@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'BlinkSDK'
-  s.version          = '0.1.0'
+  s.version          = '0.2.0'
   s.summary          = 'An SDK for accident detection and driver behavior analysis.'
   
   s.description      = <<-DESC
@@ -15,7 +15,7 @@ Pod::Spec.new do |s|
   s.swift_version = '5.0'
   s.ios.deployment_target = '13.0'
   s.ios.vendored_frameworks = [
-    "Framework/BlinkSDK.xcframework",
+    "Sources/BlinkSDK.xcframework",
   ]
   s.dependency 'TensorFlowLiteSwift'
 

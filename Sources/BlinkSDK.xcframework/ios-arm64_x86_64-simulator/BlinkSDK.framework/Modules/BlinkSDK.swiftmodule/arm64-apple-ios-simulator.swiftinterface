@@ -7,7 +7,7 @@ import CoreLocation
 import CoreMotion
 import Foundation
 import Swift
-import TensorFlowLiteSwift
+import TensorFlowLite
 import UIKit
 import _Concurrency
 import _StringProcessing

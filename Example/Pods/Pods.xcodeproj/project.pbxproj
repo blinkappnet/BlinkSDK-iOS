@@ -11,7 +11,7 @@
 			isa = PBXAggregateTarget;
 			buildConfigurationList = 40ADA63FC4FF240213172AAA2A56446C /* Build configuration list for PBXAggregateTarget "BlinkSDK" */;
 			buildPhases = (
-				DA9066B5CDC24140FC80F2C88E0FC2F8 /* [CP] Copy XCFrameworks */,
+				45904DF6A672E9B7FC1E5CD5989B3EA8 /* [CP] Copy XCFrameworks */,
 			);
 			dependencies = (
 				33C4CEA8F185769BCC4DE430B0E29827 /* PBXTargetDependency */,
@@ -101,6 +101,7 @@
 		122F6940041B546E0B4344917A41039A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
 		1F0711EA42A70D13C089E036A963E613 /* BlinkSDK-xcframeworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "BlinkSDK-xcframeworks.sh"; sourceTree = "<group>"; };
 		2522449B7C98F47092B5FA08DE960223 /* TensorFlowLite.swift */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.swift; name = TensorFlowLite.swift; path = tensorflow/lite/swift/Sources/TensorFlowLite.swift; sourceTree = "<group>"; };
+		25B5F523763153FC375A8F198859E4C2 /* BlinkSDK.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; name = BlinkSDK.xcframework; path = Sources/BlinkSDK.xcframework; sourceTree = "<group>"; };
 		28C1063AEAB9221745A5095D0A5CB58B /* TensorFlowLiteC.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TensorFlowLiteC.release.xcconfig; sourceTree = "<group>"; };
 		32260DFB88C4734CD42D2D441FA6FAFC /* Pods-BlinkSDK_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-BlinkSDK_Tests-umbrella.h"; sourceTree = "<group>"; };
 		368503D66C3A7088B739903118A37E12 /* Pods-BlinkSDK_Example-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-BlinkSDK_Example-dummy.m"; sourceTree = "<group>"; };
@@ -117,7 +118,6 @@
 		7D329B58E61C80EC9E1F8347E30CACFE /* Pods-BlinkSDK_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-BlinkSDK_Tests-dummy.m"; sourceTree = "<group>"; };
 		7DD211ED2071880CD33E48B7CE7EB422 /* Pods-BlinkSDK_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-BlinkSDK_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		80B58F1E1746E350BEB337CA9F756D65 /* TensorFlowLiteSwift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TensorFlowLiteSwift.debug.xcconfig; sourceTree = "<group>"; };
-		81AF6F169E9C434ACF71EF3734C428B8 /* BlinkSDK.xcframework */ = {isa = PBXFileReference; includeInIndex = 1; name = BlinkSDK.xcframework; path = Framework/BlinkSDK.xcframework; sourceTree = "<group>"; };
 		88AF6E24733D6C321BFCE82BB9791749 /* BlinkSDK.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = BlinkSDK.release.xcconfig; sourceTree = "<group>"; };
 		8C9A5716EA31971960FDEFF5D4B8FC4A /* BlinkSDK.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = BlinkSDK.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		95AF8B70832AC786D25547BE83582636 /* TensorFlowLiteC.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = TensorFlowLiteC.debug.xcconfig; sourceTree = "<group>"; };
@@ -254,14 +254,6 @@
 			path = TensorFlowLiteC;
 			sourceTree = "<group>";
 		};
-		65A4A2AEA060191CE67BBD1E2680956A /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				81AF6F169E9C434ACF71EF3734C428B8 /* BlinkSDK.xcframework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
 		7170AAEA90A9F81D73AF9FEC2F47F645 /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
@@ -299,6 +291,14 @@
 			);
 			name = "Support Files";
 			path = "../Target Support Files/TensorFlowLiteC";
+			sourceTree = "<group>";
+		};
+		7911E8FCF9A56EB8071B7A1C75445AF8 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				25B5F523763153FC375A8F198859E4C2 /* BlinkSDK.xcframework */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 		877DF339443E12D7B3B02251A9FED9A1 /* Support Files */ = {
@@ -344,7 +344,7 @@
 		C7E2483505441C74C4DEBF47EA4C5817 /* BlinkSDK */ = {
 			isa = PBXGroup;
 			children = (
-				65A4A2AEA060191CE67BBD1E2680956A /* Frameworks */,
+				7911E8FCF9A56EB8071B7A1C75445AF8 /* Frameworks */,
 				AA156F8507F5CAB1C025EF80E8D236A6 /* Pod */,
 				877DF339443E12D7B3B02251A9FED9A1 /* Support Files */,
 			);
@@ -527,14 +527,14 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		DA9066B5CDC24140FC80F2C88E0FC2F8 /* [CP] Copy XCFrameworks */ = {
+		45904DF6A672E9B7FC1E5CD5989B3EA8 /* [CP] Copy XCFrameworks */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			inputPaths = (
 				"${PODS_ROOT}/Target Support Files/BlinkSDK/BlinkSDK-xcframeworks.sh",
-				"${PODS_ROOT}/../../Framework/BlinkSDK.xcframework",
+				"${PODS_ROOT}/../../Sources/BlinkSDK.xcframework",
 			);
 			name = "[CP] Copy XCFrameworks";
 			outputPaths = (

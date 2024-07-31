@@ -22,7 +22,7 @@ let package = Package(
 
             ],
             path: "",
-            exclude: ["Example", "Framework"]
+            exclude: ["Example"]
         ),
         .binaryTarget(
             name: "BlinkSDKBinary",

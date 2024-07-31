@@ -18,7 +18,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
         
-        Blink.shared.configure(apiKey: "Abdulrahman") { isWorking, error in
+        Blink.shared.configure(apiKey: "") { isWorking, error in
             if let error = error {
                 print("[BlinkSDK] Error: \(error)")
             } else {

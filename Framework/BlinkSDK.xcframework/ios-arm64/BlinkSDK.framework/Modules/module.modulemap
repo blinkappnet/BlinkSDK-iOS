@@ -1,4 +1,0 @@
-framework module BlinkSDK {
-  header "BlinkSDK-Swift.h"
-  requires objc
-}
