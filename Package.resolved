@@ -1,12 +1,12 @@
 {
   "pins" : [
     {
-      "identity" : "tensorflowliteswift",
+      "identity" : "tensorflowlite",
       "kind" : "remoteSourceControl",
-      "location" : "https://github.com/tareksabry1337/TensorFlowLiteSwift.git",
+      "location" : "https://github.com/AbdulrahmanAlaa114/TensorFlowLite.git",
       "state" : {
-        "revision" : "1d5535498c3aab60095ad7277b5fd16a55f01e86",
-        "version" : "2.9.1"
+        "revision" : "c600db1da61cde8864d5d2912437b25f6700362d",
+        "version" : "2.9.4"
       }
     }
   ],

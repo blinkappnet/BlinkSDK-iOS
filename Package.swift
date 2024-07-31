@@ -11,14 +11,14 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/tareksabry1337/TensorFlowLiteSwift.git", exact: "2.9.1"),
+        .package(url: "https://github.com/AbdulrahmanAlaa114/TensorFlowLite.git", exact: "2.9.4"),
     ],
     targets: [
         .target(
             name: "BlinkSDKTarget",
             dependencies: [
                 "BlinkSDKBinary",
-                .product(name: "TensorFlowLiteSwift", package: "TensorFlowLiteSwift")
+                .product(name: "TensorFlowLite", package: "TensorFlowLite")
 
             ],
             path: "",
