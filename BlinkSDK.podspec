@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'BlinkSDK'
-  s.version          = '0.2.0'
+  s.version          = '0.3.0'
   s.summary          = 'An SDK for accident detection and driver behavior analysis.'
   
   s.description      = <<-DESC

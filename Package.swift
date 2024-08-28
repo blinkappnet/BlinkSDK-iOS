@@ -11,7 +11,7 @@ let package = Package(
         ),
     ],
     dependencies: [
-        .package(url: "https://github.com/AbdulrahmanAlaa114/TensorFlowLite.git", exact: "2.9.4"),
+        .package(url: "https://github.com/blinkappnet/TensorFlowLite.git", .upToNextMajor(from: "0.2.0")),
     ],
     targets: [
         .target(
